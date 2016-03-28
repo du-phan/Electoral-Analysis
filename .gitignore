@@ -3,3 +3,6 @@
 *.ipynb_checkpoints
 *.db
 *.csv
+original_data
+Lab2.ipynb
+*.R
